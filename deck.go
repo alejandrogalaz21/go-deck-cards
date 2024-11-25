@@ -25,3 +25,4 @@ func (d deck) print() {
 		fmt.Println(i+1, card)
 	}
 }
+
